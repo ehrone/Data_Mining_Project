@@ -1,6 +1,9 @@
 import sys
 from SPARQLWrapper import SPARQLWrapper, JSON
 import json
-import crea_json as c
+import functions as f
 
-c.crea_json()
+f.crea_json()
+print("Json crée \n")
+f.get_imgs()
+print('Images recupéréees \n')

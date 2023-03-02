@@ -2,35 +2,28 @@
 from pandas import json_normalize
 import pandas as pd    
 import json
+#########################
+import requests
+import shutil
+import os
 
-#for the images
-import matplotlib.image as matplot
+def download_image(url):
 
+    headers = {"User-Agent": "Mozilla/5.0"}
+    request = requests.get(url, allow_redirects=True, headers=headers, stream=True)
+    if request.status_code == 200:
+        with open(os.path.basename(url), "wb") as image:
+            request.raw.decode_content = True
+            shutil.copyfileobj(request.raw, image)
+    return request.status_code
 
 # the name of the json with all the data
-json_path=""
+json_path="fichier.json"
 # we get the json
 json_data = json.load(open(json_path))
-data = json_normalize(json_data)
 
 
-
-
-
-"""
-# we get the link of the image and save it in a folder image
-link_imgs =data["image"]
-#we get the name of the cake
-cake = data["gateauLabel"]
-
-# we save the pictures
-for i in range(len(link_imgs)):
-
-    name = cake[i]# the name to save
-    image = matplot.imread(link_imgs[i])# the image, a numpy table
-    matplot.imsave(name, image)
-
----------------------------------------------------------------------------------------------------------------------
-
-
-"""
+for key, info in json_data.items():
+    #print('\n', key,'\n', info, '\n')
+    name = info['gateauLabel']# the name to save the image
+    print(type(download_image(info['image'])))
