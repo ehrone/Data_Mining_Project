@@ -10,6 +10,8 @@ import requests
 import shutil
 import os
 
+import urllib.request
+
 
 ####################################### CRÉATION JSON #################################################
 
@@ -53,7 +55,7 @@ def crea_json():
 
     #print(' dico json \n')
     #print(dico_json)
-    with open('fichier.json', 'w') as fichier :
+    with open('./fichier.json', 'w') as fichier :
         json.dump(dico_json, fichier)
         
 #########################################TÉLÉCHARGEMENT IMAGES#########################################
@@ -77,4 +79,9 @@ def get_imgs():
     for key, info in json_data.items():
         #print('\n', key,'\n', info, '\n')
         name = info['gateauLabel']# the name to save the image
-        print(type(download_image(info['image'])))
+        print(info['image'],"\n")
+        urllib.request.urlretrieve(info['image'], "./script_python/images/"+name+".jpg")
+        #with open("images/"+name+".jpg", "wb")as file :
+        #    file.write(ressource.read())
+        #output.close()
+        #urllib.request.urlretrieve(info['image'], "images/"+key+".jpg")
