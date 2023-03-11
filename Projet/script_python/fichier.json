@@ -1,0 +1,308 @@
+{
+    "Chihuahua": {
+        "animal": "http://www.wikidata.org/entity/Q653",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chihuahua1%20bvdb.jpg",
+        "animalLabel": "Chihuahua",
+        "animalDescription": "dog breed"
+    },
+    "Great Dane": {
+        "animal": "http://www.wikidata.org/entity/Q5414",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/8675eds%20win.jpg",
+        "animalLabel": "Great Dane",
+        "animalDescription": "dog breed"
+    },
+    "American Bully": {
+        "animal": "http://www.wikidata.org/entity/Q5570",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CH%20P%27NUT.jpg",
+        "animalLabel": "American Bully",
+        "animalDescription": "dog breed"
+    },
+    "Affenpinscher": {
+        "animal": "http://www.wikidata.org/entity/Q7254",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Borismindre.jpg",
+        "animalLabel": "Affenpinscher",
+        "animalDescription": "dog breed"
+    },
+    "Austrian Black and Tan Hound": {
+        "animal": "http://www.wikidata.org/entity/Q11385",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brandlbracke.JPG",
+        "animalLabel": "Austrian Black and Tan Hound",
+        "animalDescription": "dog breed"
+    },
+    "Dalmatian": {
+        "animal": "http://www.wikidata.org/entity/Q17504",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prunella%20Fitzgerald%20de%20Puech%20Barrayre.jpg",
+        "animalLabel": "Dalmatian",
+        "animalDescription": "dog breed"
+    },
+    "Maremma Sheepdog": {
+        "animal": "http://www.wikidata.org/entity/Q21074",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cane%20Pastore%20Abruzzese%20Abruzzo.jpg",
+        "animalLabel": "Maremma Sheepdog",
+        "animalDescription": "dog breed"
+    },
+    "Afghan Hound": {
+        "animal": "http://www.wikidata.org/entity/Q21080",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arabian%20Hound%20001%20U.jpg",
+        "animalLabel": "Afghan Hound",
+        "animalDescription": "dog breed"
+    },
+    "Cane Corso": {
+        "animal": "http://www.wikidata.org/entity/Q21082",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FINLEY%20DE%20LA%20MIRAGE%20DE%20TORRELLAS%2001.jpg",
+        "animalLabel": "Cane Corso",
+        "animalDescription": "dog breed"
+    },
+    "Alaskan Husky": {
+        "animal": "http://www.wikidata.org/entity/Q21205",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Goose-Alaskan%20Husky.jpg",
+        "animalLabel": "Alaskan Husky",
+        "animalDescription": "dog crossbreed"
+    },
+    "Alaskan Malamute": {
+        "animal": "http://www.wikidata.org/entity/Q21206",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alaskanmalamute0b.jpg",
+        "animalLabel": "Alaskan Malamute",
+        "animalDescription": "dog breed"
+    },
+    "Chow Chow": {
+        "animal": "http://www.wikidata.org/entity/Q29013",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/01%20Chow%20Chow.jpg",
+        "animalLabel": "Chow Chow",
+        "animalDescription": "Chinese dog breed"
+    },
+    "English Springer Spaniel": {
+        "animal": "http://www.wikidata.org/entity/Q29022",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Englishspringerspaniel%20Winston.jpg",
+        "animalLabel": "English Springer Spaniel",
+        "animalDescription": "dog breed"
+    },
+    "Combai": {
+        "animal": "http://www.wikidata.org/entity/Q29028",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kombai%20dog.jpg",
+        "animalLabel": "Combai",
+        "animalDescription": "dog breed"
+    },
+    "Catalan Sheepdog": {
+        "animal": "http://www.wikidata.org/entity/Q29058",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catalaanse%20herder.JPG",
+        "animalLabel": "Catalan Sheepdog",
+        "animalDescription": "Catalan Sheepdog"
+    },
+    "Cardigan Welsh Corgi": {
+        "animal": "http://www.wikidata.org/entity/Q29072",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cardigan%20Welsh%20Corgi%20600.jpg",
+        "animalLabel": "Cardigan Welsh Corgi",
+        "animalDescription": "dog breed"
+    },
+    "Chesapeake Bay Retriever": {
+        "animal": "http://www.wikidata.org/entity/Q29084",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chesapeakebayretriever01-l.jpg",
+        "animalLabel": "Chesapeake Bay Retriever",
+        "animalDescription": "dog breed"
+    },
+    "dachshund": {
+        "animal": "http://www.wikidata.org/entity/Q29099",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Std%20Dachshund%20600.jpg",
+        "animalLabel": "dachshund",
+        "animalDescription": "dog breed"
+    },
+    "Dutch Shepherd": {
+        "animal": "http://www.wikidata.org/entity/Q29114",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hollandse%20herder%20korthaar.jpg",
+        "animalLabel": "Dutch Shepherd",
+        "animalDescription": "dog breed"
+    },
+    "Danish Swedish Farmdog": {
+        "animal": "http://www.wikidata.org/entity/Q29127",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Danish%20Swedish%20Farmdog%20cropped.jpg",
+        "animalLabel": "Danish Swedish Farmdog",
+        "animalDescription": "dog breed"
+    },
+    "French Bulldog": {
+        "animal": "http://www.wikidata.org/entity/Q29149",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cream%20French%20Bulldog.jpg",
+        "animalLabel": "French Bulldog",
+        "animalDescription": "dog breed"
+    },
+    "Akita": {
+        "animal": "http://www.wikidata.org/entity/Q29164",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akita%20inu.jpeg",
+        "animalLabel": "Akita",
+        "animalDescription": "dog breed"
+    },
+    "Field Spaniel": {
+        "animal": "http://www.wikidata.org/entity/Q29177",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Field%20spaniel%20581.jpg",
+        "animalLabel": "Field Spaniel",
+        "animalDescription": "dog breed"
+    },
+    "Finnish Lapphund": {
+        "animal": "http://www.wikidata.org/entity/Q29188",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Finselappenhond%20louhi-no%20watermark.jpg",
+        "animalLabel": "Finnish Lapphund",
+        "animalDescription": "dog breed"
+    },
+    "Finnish Spitz": {
+        "animal": "http://www.wikidata.org/entity/Q29195",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Szpic%20fi%C5%84ski%20profil%20980.jpg",
+        "animalLabel": "Finnish Spitz",
+        "animalDescription": "dog breed"
+    },
+    "Flat-Coated Retriever": {
+        "animal": "http://www.wikidata.org/entity/Q29200",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/G%C5%82adkow%C5%82osy%20pies%20aportuj%C4%85cy.jpg",
+        "animalLabel": "Flat-Coated Retriever",
+        "animalDescription": "dog breed"
+    },
+    "Formosan Mountain Dog": {
+        "animal": "http://www.wikidata.org/entity/Q29212",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Formosan%20nina.jpg",
+        "animalLabel": "Formosan Mountain Dog",
+        "animalDescription": "dog breed"
+    },
+    "Old German herding dogs": {
+        "animal": "http://www.wikidata.org/entity/Q37469",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gelbbacke.jpg",
+        "animalLabel": "Old German herding dogs",
+        "animalDescription": "dog type"
+    },
+    "Alapaha Blue Blood Bulldog": {
+        "animal": "http://www.wikidata.org/entity/Q37489",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alapahabulldog.jpg",
+        "animalLabel": "Alapaha Blue Blood Bulldog",
+        "animalDescription": "dog breed"
+    },
+    "Australian Stumpy Tail Cattle Dog": {
+        "animal": "http://www.wikidata.org/entity/Q37503",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Australian%20Stumpy%20Tail%20Cattle%20Dog.jpg",
+        "animalLabel": "Australian Stumpy Tail Cattle Dog",
+        "animalDescription": "dog breed"
+    },
+    "American Hairless Terrier": {
+        "animal": "http://www.wikidata.org/entity/Q37508",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Am%20hairless%20terrier%20pups.jpg",
+        "animalLabel": "American Hairless Terrier",
+        "animalDescription": "dog breed"
+    },
+    "American Akita": {
+        "animal": "http://www.wikidata.org/entity/Q37534",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20japanese%20dog00.jpg",
+        "animalLabel": "American Akita",
+        "animalDescription": "dog breed"
+    },
+    "Anatolian Shepherd": {
+        "animal": "http://www.wikidata.org/entity/Q37541",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kangal-welpen-de%20003.jpg",
+        "animalLabel": "Anatolian Shepherd",
+        "animalDescription": "dog breed"
+    },
+    "American English Coonhound": {
+        "animal": "http://www.wikidata.org/entity/Q37578",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maddie%20%288416820450%29.jpg",
+        "animalLabel": "American English Coonhound",
+        "animalDescription": "dog breed"
+    },
+    "Australian Cattle Dog": {
+        "animal": "http://www.wikidata.org/entity/Q37595",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AustrCattleDogRed%20wb.jpg",
+        "animalLabel": "Australian Cattle Dog",
+        "animalDescription": "dog breed"
+    },
+    "Bichon Fris\u00e9": {
+        "animal": "http://www.wikidata.org/entity/Q37600",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bichon%20Fris%C3%A9%20sitting.jpg",
+        "animalLabel": "Bichon Fris\u00e9",
+        "animalDescription": "dog breed"
+    },
+    "American Bulldog": {
+        "animal": "http://www.wikidata.org/entity/Q37604",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warrior%20American%20Bulldog%20puppy.jpg",
+        "animalLabel": "American Bulldog",
+        "animalDescription": "dog breed"
+    },
+    "Airedale Terrier": {
+        "animal": "http://www.wikidata.org/entity/Q37617",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AiredaleDog.jpg",
+        "animalLabel": "Airedale Terrier",
+        "animalDescription": "dog breed"
+    },
+    "Bearded Collie": {
+        "animal": "http://www.wikidata.org/entity/Q37619",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bearded%20collie%20and%20a%20rope.jpg",
+        "animalLabel": "Bearded Collie",
+        "animalDescription": "dog breed"
+    },
+    "Belgian Shepherd": {
+        "animal": "http://www.wikidata.org/entity/Q37624",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/04%20-%20Belgian%20shepherd%20dog%20varieties%20-%20Groenendael%2CTervuren%2C%20Malinois%2C%20Laekenois.jpg",
+        "animalLabel": "Belgian Shepherd",
+        "animalDescription": "dog breed"
+    },
+    "Australian Shepherd": {
+        "animal": "http://www.wikidata.org/entity/Q37629",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moulderright.JPG",
+        "animalLabel": "Australian Shepherd",
+        "animalDescription": "dog breed"
+    },
+    "Bakharwal Dog": {
+        "animal": "http://www.wikidata.org/entity/Q37653",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bakarwal.jpg",
+        "animalLabel": "Bakharwal Dog",
+        "animalDescription": "dog breed"
+    },
+    "Chinese Chongqing Dog": {
+        "animal": "http://www.wikidata.org/entity/Q37673",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinese%20Chongqing%20Dog%20H%C3%BCndin.jpg",
+        "animalLabel": "Chinese Chongqing Dog",
+        "animalDescription": "dog breed"
+    },
+    "American Staffordshire Terrier": {
+        "animal": "http://www.wikidata.org/entity/Q37688",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amstaff%209%20months%20old%20cropped%20ears2.jpg",
+        "animalLabel": "American Staffordshire Terrier",
+        "animalDescription": "dog breed"
+    },
+    "Alano Espa\u00f1ol": {
+        "animal": "http://www.wikidata.org/entity/Q37690",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20Alano%202.jpg",
+        "animalLabel": "Alano Espa\u00f1ol",
+        "animalDescription": "dog breed"
+    },
+    "American Eskimo Dog": {
+        "animal": "http://www.wikidata.org/entity/Q37699",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Eskimo%20Dog%201.jpg",
+        "animalLabel": "American Eskimo Dog",
+        "animalDescription": "dog breed"
+    },
+    "border collie": {
+        "animal": "http://www.wikidata.org/entity/Q37710",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Border%20Collie%20600.jpg",
+        "animalLabel": "border collie",
+        "animalDescription": "dog breed"
+    },
+    "Braque d'Auvergne": {
+        "animal": "http://www.wikidata.org/entity/Q37727",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Braque%20d%20Auvergne.jpg",
+        "animalLabel": "Braque d'Auvergne",
+        "animalDescription": "dog breed"
+    },
+    "Presa Canario": {
+        "animal": "http://www.wikidata.org/entity/Q37750",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sentaya3.jpg",
+        "animalLabel": "Presa Canario",
+        "animalDescription": "Spanish breed of dog"
+    },
+    "English Toy Terrier": {
+        "animal": "http://www.wikidata.org/entity/Q37782",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/English%20Toy%20Terrier%20600%2001.jpg",
+        "animalLabel": "English Toy Terrier",
+        "animalDescription": "dog breed"
+    },
+    "English Foxhound": {
+        "animal": "http://www.wikidata.org/entity/Q37789",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/English%20foxhound.jpg",
+        "animalLabel": "English Foxhound",
+        "animalDescription": "dog breed"
+    }
+}

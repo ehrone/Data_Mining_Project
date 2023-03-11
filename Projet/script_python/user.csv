@@ -1,0 +1,11 @@
+,Unnamed: 0,name,label,description,color_1,color_2,color_3,color_4,favorite
+0,0,Chihuahua,Chihuahua,dog breed,"[132, 112, 85]","[13, 22, 14]","[217, 173, 133]","[67, 74, 52]",favorite
+1,0,Great Dane,Great Dane,dog breed,"[222, 211, 190]","[59, 51, 37]","[175, 152, 111]","[218, 32, 5]",NotFavorite
+2,0,American Bully,American Bully,dog breed,"[185, 154, 142]","[47, 38, 58]","[231, 212, 206]","[108, 95, 107]",NotFavorite
+3,0,Affenpinscher,Affenpinscher,dog breed,"[116, 154, 94]","[25, 28, 25]","[164, 212, 128]","[70, 88, 64]",favorite
+4,0,Austrian Black and Tan Hound,Austrian Black and Tan Hound,dog breed,"[97, 96, 90]","[191, 193, 199]","[147, 147, 140]","[48, 47, 49]",favorite
+5,0,Dalmatian,Dalmatian,dog breed,"[190, 169, 154]","[31, 17, 25]","[223, 213, 217]","[123, 95, 92]",NotFavorite
+6,0,Maremma Sheepdog,Maremma Sheepdog,dog breed,"[106, 116, 122]","[194, 206, 219]","[64, 77, 81]","[140, 150, 164]",favorite
+7,0,Afghan Hound,Afghan Hound,dog breed,"[52, 59, 64]","[153, 169, 131]","[105, 111, 104]","[193, 196, 201]",NotFavorite
+8,0,Cane Corso,Cane Corso,dog breed,"[169, 174, 95]","[105, 100, 64]","[230, 207, 187]","[32, 30, 26]",NotFavorite
+9,0,Alaskan Husky,Alaskan Husky,dog crossbreed,"[101, 109, 71]","[209, 209, 207]","[137, 142, 110]","[66, 67, 47]",NotFavorite
